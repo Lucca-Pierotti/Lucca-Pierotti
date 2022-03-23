@@ -1,0 +1,26 @@
+.div-sobre {
+  display: inline-block;
+  width: 49.5%;
+  vertical-align: top;
+  padding: 5%;
+}
+
+.titulo-sobre {
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(0, 0, 0);
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 3rem;
+}
+
+.descricao-sobre {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.img {
+  display: inline-block;
+  width: 50.5%;
+  padding: 5%;
+}
